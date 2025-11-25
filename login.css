@@ -1,0 +1,20 @@
+*, html {
+    background-color: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18;
+}
+
+h1 {
+    text-align: center;
+    color: teal;
+}
+
+form {
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+#login {
+    color: purple;
+}
