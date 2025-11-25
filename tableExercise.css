@@ -1,0 +1,43 @@
+*, html {
+    background-color: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Qualified Teams */
+.qualified { color: rgb(20, 200, 50); text-align: center; }
+
+/* Not Qualified Teams */
+.not-qualified { color: red; text-align: center; }
+
+/* Align the text to Center inside a cell */
+.center-align { color: blue; text-align: center; }
+
+/* Unique colors for the Teams*/
+#ind { color: blue; }
+
+#aus { color: rgb(220, 220, 19); }
+
+#sla { color: teal; }
+
+#gno { color: darkblue; }
+
+#pak { color: green; }
+
+#bgl{ color: salmon; }
+
+#sa{ color: rgb(18, 174, 18); }
+
+#nz{ color: rgb(74, 81, 88); }
+
+/* Color for Title */
+.titles { 
+    color: purple; 
+    font-family: JetBrains Mono; 
+}
+
+/**/
+.mega-title { 
+    color: sandybrown;
+    font-family: sans-serif; 
+    font-size: large; 
+}

@@ -1,0 +1,59 @@
+/* Date created: 18/11/25 */
+
+* {
+    background-color: none;
+    /* color: lightgray;
+    align-items: center;
+    justify-content: center;
+    justify-items: center; */
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: orange;
+}
+
+#minh {
+    color: firebrick;
+}
+
+.cities {
+    color: navy;
+}
+
+.capital {
+    color: hotpink;
+}
+
+.titles {
+    color: teal;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#name1 {
+    color: darkorange;
+}
+
+#name2 {
+    color: darkgreen;
+}
+
+#name3 {
+    color: darkblue;
+}
+
+#usr {
+    color: pink;
+}
+
+.sno {
+    color: crimson;
+}
