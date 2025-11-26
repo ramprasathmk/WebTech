@@ -1,0 +1,57 @@
+*, html {
+    background-color: none;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(111, 123, 124);
+}
+
+#navigation {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+#navigation>a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+#song-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30;
+}
+
+#song-ctrl {
+    text-align: center;
+}
+
+.table-title {
+    font-family: Consolas;
+    font-size: 18px;
+    color: blueviolet;
+    text-align: left;
+}
+
+.table-value {
+    font-family: Consolas;
+    font-size: 16px;
+    color: orange;
+}
+
+#end {
+    font-family: 'JetBrains Mono';
+    font-size: larger;
+    color: red;
+}
+
+.bgm {
+    color: rgb(234, 192, 121);
+}
+
+.male {
+    color: black;
+}

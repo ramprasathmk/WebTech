@@ -1,0 +1,33 @@
+*, html {
+    background-color: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18;
+}
+
+h1 {
+    text-align: center;
+    color: teal;
+}
+
+form {
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+#login {
+    color: purple;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.button {
+    text-decoration: none;
+}
+
+.input {
+    border: 0px solid black;
+    border-radius: 25%;
+}
