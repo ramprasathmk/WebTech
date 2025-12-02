@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: rosybrown;
+    text-transform: capitalize;
+}
+
+p {
+    font-family: 'JetBrains Mono';
+    font-size: 18px;
+    font-weight: 200;
+    color: purple;
+    text-align: justify;
+    word-spacing: 5px;
+    text-indent: 100px;
+}
+
+a {
+    text-decoration: none;
+}
