@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     color: rosybrown;
     text-transform: capitalize;
+    text-shadow: 10px 5px 5px thistle;
 }
 
 p {
