@@ -1,0 +1,27 @@
+/* Date Created: 03/12/2025 */
+
+header {
+    background-color: yellow;
+    width: 300px;
+    height: 200px;
+}
+
+b {
+    background-color: red;
+    width: 300px;
+    height: 200px;
+}
+
+i {
+    background-color: green;
+    width: 300px;
+    height: 200px;
+}
+
+h1 {
+    background-color: red;
+}
+
+button {
+    width: 200px;
+}
