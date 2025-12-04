@@ -57,10 +57,12 @@ ul > li {
     color: red;
 }
 
+/* Alternate Sibling Selector */
 ul > #i4 + li {
     background-color: green;
 }
 
+/* General Sibling Selector */
 ul > #i4 ~ li {
     background-color: green;
 }
