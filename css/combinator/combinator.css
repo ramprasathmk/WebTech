@@ -1,0 +1,66 @@
+* {
+    font-family: 'JetBrains Mono';   
+}
+
+.card1 {
+    background-color: red;
+    height: 200px;
+    width: 300px;
+}
+
+.card2 {
+    background-color: red;
+    height: 200px;
+    width: 300px;
+}
+
+/* 1. Descendent Selector */
+.card1 h1 {
+    color: wheat;
+}
+
+/* 1. Descendent Selector */
+.card2 h1 {
+    color: white;
+    text-align: center;
+}
+
+.card3 {
+    height: 350px;
+    width: 400px;
+    background-color: beige;
+}
+
+.card3 .box {
+    height: 180px;
+    width: 300px;
+    background-color: plum;
+}
+
+/* 2. Direct Child Selector */
+.card3 > h2 {
+    color: green;
+}
+
+/* 2. Direct Child Selector */
+.card3 > .box > h2 {
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul > li {
+    font-size: 25px;
+}
+
+#i4 {
+    color: red;
+}
+
+ul > #i4 + li {
+    background-color: green;
+}
+
+ul > #i4 ~ li {
+    background-color: green;
+}
