@@ -1,0 +1,44 @@
+/* Date Created: 11/12/2025 */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.outer {
+    height: 100vh;
+    background-color: plum;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.outer > .inner {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border: solid black 1px;
+    border-radius: 25px;
+    /* hides the owerflow content */
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    overflow: auto;
+}
+
+.inner > h2 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.inner > p {
+    font-size: 18px;
+    font-family: 'JetBrains Mono';
+    text-align: justify;
+    padding: 15px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    /* justify-content: ; */
+}
