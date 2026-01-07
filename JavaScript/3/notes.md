@@ -9,7 +9,7 @@
 - Example:
 
   ```js
-  // Variable Hoisting
+  // Variable Hoisting -> moving the declaration (not initialization) at the top.
 
   console.log(a); // undefined
   var a = 20;
