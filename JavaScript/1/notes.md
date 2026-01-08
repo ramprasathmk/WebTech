@@ -6,6 +6,7 @@
 | 2   | Reinitialization is possible                     | Reinitialization is possible                     | not possible                                 |
 | 3   | while declaring initialization is not compulsory | while declaring initialization is not compulsory | while declaring initialization is compulsory |
 | 4   | var will not follow block scope                  | follows all the three scopes                     | follows all the three scopes                 |
+| 5   | try to access before declaration we get `undefined` | try to access before declaration we get `Reference Error` | try to access before declaration we get `Reference Error` |  
 
 ### Scope of variable
 
