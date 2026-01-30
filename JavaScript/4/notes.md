@@ -31,3 +31,7 @@
     console.log(b);
     const a = 20;
     ```
+
+## 2. Functional Hoisting
+
+- Moving the function at the top of the scope is known as Functional hoisting.
