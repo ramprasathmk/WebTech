@@ -1,0 +1,31 @@
+* {
+    background-color: none;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.box > h1 {
+    font-family: Hack, Cascadia Code;
+    font-size: 1.2em;
+    color: purple;
+}
+
+.box > button {
+    font-family: Hack;
+    font-size: 1em;
+    border: 1px solid #717281;
+    border-radius: 25px;
+    height: 50px;
+    width: 120px;
+}
